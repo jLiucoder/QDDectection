@@ -4,6 +4,6 @@ There are several stages for the project, for now we are thinking about:
 1. Cascade object detector
 2. CNN training
 
-The Repo now contain the script for COD,the two files are working fine and it runs the training, but need more samples and more testing to see the best result. After this, the first step would finished. 
+The Repo now contain the script for COD,the two files are working fine and it runs the training, but need more samples and more testing to see the best result. After this, the first step would be done. 
 
 **for running the training at your own local machine. More specific instructions is at the readme.md under the folder labelingSession&TrianingScripts
